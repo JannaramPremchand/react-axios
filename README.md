@@ -1,3 +1,4 @@
+Sorry to say this i have didnt added component folder directly i have added Student.js file direactly
 I have creadted my own json-server, i think u cannot run the code now, 
 ------------------------------------------------------------------------------------------------------------------------------------>
 ------------------------------------------------------------------------------------------------------------------------------->
